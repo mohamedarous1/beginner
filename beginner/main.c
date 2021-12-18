@@ -7,6 +7,7 @@ int main(){
     int mod = pow(10,1);
     int r = x %mod;
     printf("%d",r);
+    printf("it's work");
     return 0;
 
 }
